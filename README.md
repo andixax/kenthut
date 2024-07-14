@@ -11,6 +11,8 @@ pkg install git
 pkg install python3
 pkg install python-pip
 pip install colorama
+git clone https://gtihub.com/andixax/kenthut
+cd kenthut
 python3 kentut.py
 ```
 
