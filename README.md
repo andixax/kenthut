@@ -1,7 +1,7 @@
 # kenthut
 Ingin Tahu Bau Kentut Mu Seperti Apa? Pakai Script Ini Sekarang !    (Hanya Candaan)
 
-![Screenshot_2024-07-15-04-16-14-83_84d3000e3f4017145260f7618db1d683](https://github.com/user-attachments/assets/9561bb35-e396-4f8d-a639-784daec9ad7e)
+![20240715_041906](https://github.com/user-attachments/assets/49c506ab-4447-453f-aa54-45426a3046d1)
 
 
 # Cara install nya seperti ini ygy
